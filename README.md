@@ -1,5 +1,5 @@
 
-link a mi repositorio:
+link a mi repositorio:https://github.com/pablonso308/AndroidOneThree.git
 
 MisTareas2 (README)
 Nombre de la Aplicación: MisTareas2
